@@ -9,5 +9,11 @@
  > This is how the home page looks
  ![Screenshot from 2019-12-06 14-22-15](https://user-images.githubusercontent.com/42781233/70318900-1d355300-1847-11ea-9594-023c571992e2.png)
  > Do clone the repo to see the actual website
-
+ Follow the steps:
+ - `git clone `
+ - cd into the clone folder.
+ - If you are ans ubuntu user activate the virtualenv as this
+   `source venv/bin/activate`
+ - `cd crs`
+ - `python3 manage.py runserver`
  
