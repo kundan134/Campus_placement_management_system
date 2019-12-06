@@ -12,8 +12,10 @@
  Follow the steps:
  - `git clone `
  - cd into the clone folder.
- - If you are ans ubuntu user activate the virtualenv as this
+ - If you are an ubuntu user activate the virtualenv as this
    `source venv/bin/activate`
  - `cd crs`
  - `python3 manage.py runserver`
+ 
+ Copy and Paste the URL to visit the Website
  
